@@ -1,7 +1,7 @@
 # Time Series Forecasting, A case study on store sales
 
 <p align="center">
-    <img width="400" src="Rincian-Biaya-Operasi-Tahi-Lalat-di-Erha-Clinic-300x168.jpg" alt="Material Bread logo">
+    <img width="400" src="0_KFZrjK87DvOeTauC.png" alt="Material Bread logo">
 </p>
 
 
