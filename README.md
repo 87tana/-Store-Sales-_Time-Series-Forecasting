@@ -1,7 +1,7 @@
 # Time Series Forecasting, A case study on store sales
 
 <p align="center">
-    <img width="400" src="0_KFZrjK87DvOeTauC.png" alt="Material Bread logo">
+    <img width="400" src="aaa2ac7acafcacaf65cb5768272a55da.gif" alt="Material Bread logo">
 </p>
 
 
