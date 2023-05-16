@@ -1,9 +1,14 @@
-# Store-Sales_Time-SeriesForecasting
+# Time Series Forecasting, A case study on store sales
 
 
-**Goal**
+## **Introduction**
 
-Our main goal is to predict sales for each product and store combination over time
+This project involves analyzing and predicting sales for a store within Favorita Corporation, a leading supermarket retailer in Ecuador. The objective is to provide actionable insights to store management for effective inventory management and sales strategies. By leveraging sales forecasting techniques and utilizing extensive historical data, the project aims to support Favorita Corporation in optimizing operations and driving higher sales.
+
+
+## **Goal**
+
+The goal is on developing a reliable model using historical sales data across various products and locations.
 
 **The project comprises six CSV files, including:**
 
