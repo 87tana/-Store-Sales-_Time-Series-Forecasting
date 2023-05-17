@@ -28,7 +28,6 @@ Alternative Hypothesis: The retail company generates equal revenue from each pro
 
 ## Objectives:
 
-- Is the train dataset complete (has all the required dates)?
 - Which dates have the lowest and highest sales for each year?
 - Did the earthquake impact sales?
 - Are certain groups of stores selling more products? (Cluster, city, state, type)
