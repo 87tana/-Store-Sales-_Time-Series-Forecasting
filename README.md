@@ -56,3 +56,8 @@ Alternative Hypothesis: The retail company generates equal revenue from each pro
 
 
 - **Daily Oil Price**: data on the daily price of oil
+
+
+## Performance Metric Used:
+
+ Evaluated results using regression metrics MSE, RMSE, etc
