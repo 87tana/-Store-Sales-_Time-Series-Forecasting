@@ -19,12 +19,14 @@ The goal is on developing a reliable model using historical sales data across va
 
 The objective of this project is to enhance sales performance by studying long-term sales trend, understanding the impact of previous events on sales, identifying potential solutions, and determining the appropriate course of action. The research explores multiple regression approaches to generate predictions.
 
-Hypothesis: Store sales are influenced by various factors, including the day of the week, season, promotions, and external factors. By analyzing these factors and developing a time series forecasting model, we can make accurate predictions about the store's future sales.
+## Hypothesis Testing 
 
-Null Hypothesis: Certain products generate higher revenue compared to others.
+The sales of stores are influenced by various factors, including oil price, day of the week, season, promotions, and external influences. To investigate these factors, I perform exploratory data analysis (EDA) on each factor and select a specific feature to formulate a hypothesis. Subsequently, I apply A/B testing to evaluate the validity of my hypothesis.
 
-Alternative Hypothesis: The retail company generates equal revenue from each product.
 
+H0 - There is no significant correlation between oil price and increase sales
+
+H1 - There is significant correlation between oil price and increase sales
 
 ## Objectives:
 
