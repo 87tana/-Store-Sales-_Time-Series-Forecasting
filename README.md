@@ -28,6 +28,15 @@ H0 - There is no significant correlation between oil price and increase sales
 
 H1 - There is significant correlation between oil price and increase sales
 
+
+
+
+
+H0: The earthquake did not have an impact on sales.No significant diff between the average sales before & after the earthquake.
+
+
+H1: The earthquake had an impact on sales.A significant difference between the average sales before and after the earthquake.
+
 ## Objectives:
 
 - Which dates have the lowest and highest sales for each year?
