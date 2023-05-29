@@ -69,6 +69,6 @@ H1: The earthquake had an impact on sales.A significant difference between the a
 - **Daily Oil Price**: data on the daily price of oil
 
 
-## Performance Metric Used:
+## Model Building and Performance Metric Used:
 
- Evaluated results using regression metrics MSE, RMSE, etc
+Here, we train different models like Linear Regression, Decission tree, Random Forest, XGBoost, ARIMA, LSTM, and Prophet. Each model is chosen for its specific strengths in handling time-series data. After training, each model's performance is evaluated using the Mean Squared Error (MSE) metric.
