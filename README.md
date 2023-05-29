@@ -72,3 +72,8 @@ H1: The earthquake had an impact on sales.A significant difference between the a
 ## Model Building and Performance Metric Used:
 
 Here, we train different models like Linear Regression, Decission tree, Random Forest, XGBoost, ARIMA, LSTM, and Prophet. Each model is chosen for its specific strengths in handling time-series data. After training, each model's performance is evaluated using the Mean Squared Error (MSE) metric.
+
+
+## Submission
+
+After evaluating the models' performance, we select the top-performing one to generate predictions on the test set.Finally, we prepare a CSV file for submission, which includes predicted sales for given dates.
