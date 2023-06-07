@@ -19,7 +19,7 @@ The goal is on developing a reliable model using historical sales data across va
 
 The objective of this project is to enhance sales performance by studying long-term sales trend, understanding the impact of previous events on sales, identifying potential solutions, and determining the appropriate course of action. The research explores multiple regression approaches to generate predictions.
 
-## Hypothesis Testing 
+## Hypothesis Testing /A B testing
 
 The sales of stores are influenced by various factors, including oil price, day of the week, season, promotions, and external influences. To investigate these factors, I perform exploratory data analysis (EDA) on each factor and select a specific feature to formulate a hypothesis. Subsequently, I apply A/B testing to evaluate the validity of my hypothesis.
 
