@@ -83,6 +83,12 @@ Here, we train different models like Linear Regression, Random Forest, XGBoost, 
 
 - Each of them has their own pros and cons, but considering random forest we can capture important features as well
 
+- Comparison Table of Evaluation Results:
+
+
+**Linear Regression:**  MSE(0.21)  RMSE(0.46), **XGBoost:**  MSE(0.04)  RMSE(0.20), **Random Forest:**  MSE(0.04)  RMSE(0.20)
+
+
 
 ## Prophet Model
 In the  prophet Model, the "Holiday" feature is used to capture the impact of holidays or significant events on the time series data. It helps Prophet to model and account for the seasonal effects that holidays may have on the target variable.
