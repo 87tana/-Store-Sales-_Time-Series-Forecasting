@@ -74,6 +74,13 @@ H1: The earthquake had an impact on sales.A significant difference between the a
 Here, we train different models like Linear Regression, Random Forest, XGBoost, ARIMA, and Prophet. Each model is chosen for its specific strengths in handling time-series data. After training, each model's performance is evaluated using the Mean Squared Error (MSE) metric.
 
 
-## 
+## Evaluation results on Classical ML Models
+
+
+-  Based on the comparison of evaluation results, both the Random Forest model and XGBoost outperform the Linear Regression model. They exhibit lower values for MSE and RMSE , indicating smaller errors and closer predictions to the actual store sales. 
+
+-  This suggests that the Random Forest model and XGBoost are more accurate and reliable in capturing the underlying patterns and dynamics of the time series data, resulting in improved forecasting performance compared to the Linear Regression model.
+
+- Each of them has their own pros and cons, but considering random forest we can capture important features as well
 
 
