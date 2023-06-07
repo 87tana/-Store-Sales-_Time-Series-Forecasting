@@ -19,7 +19,7 @@ The goal is on developing a reliable model using historical sales data across va
 
 The objective of this project is to enhance sales performance by studying long-term sales trend, understanding the impact of previous events on sales, identifying potential solutions, and determining the appropriate course of action. The research explores multiple regression approaches to generate predictions.
 
-## Hypothesis Testing /A B testing
+## Hypothesis Testing, A/B testing
 
 The sales of stores are influenced by various factors, including oil price, day of the week, season, promotions, and external influences. To investigate these factors, I perform exploratory data analysis (EDA) on each factor and select a specific feature to formulate a hypothesis. Subsequently, I apply A/B testing to evaluate the validity of my hypothesis.
 
@@ -71,9 +71,9 @@ H1: The earthquake had an impact on sales.A significant difference between the a
 
 ## Model Building and Performance Metric Used:
 
-Here, we train different models like Linear Regression, Decission tree, Random Forest, XGBoost, ARIMA, LSTM, and Prophet. Each model is chosen for its specific strengths in handling time-series data. After training, each model's performance is evaluated using the Mean Squared Error (MSE) metric.
+Here, we train different models like Linear Regression, Random Forest, XGBoost, ARIMA, and Prophet. Each model is chosen for its specific strengths in handling time-series data. After training, each model's performance is evaluated using the Mean Squared Error (MSE) metric.
 
 
-## Submission
+## 
 
-After evaluating the models' performance, we select the top-performing one to generate predictions on the test set.Finally, we prepare a CSV file for submission, which includes predicted sales for given dates.
+
